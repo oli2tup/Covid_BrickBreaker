@@ -1,4 +1,8 @@
 # Covid_BrickBreaker
+
+![image](https://user-images.githubusercontent.com/25754048/142043039-057bd648-ae95-4f0b-a5d9-fee92f1091a5.png)
+
+
 Covid19 informational brick breaker game
 
 Image of the application running – 1
