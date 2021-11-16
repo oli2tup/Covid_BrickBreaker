@@ -1,6 +1,6 @@
 # Covid_BrickBreaker
 
-![image](https://user-images.githubusercontent.com/25754048/142043039-057bd648-ae95-4f0b-a5d9-fee92f1091a5.png)
+![image](https://github.com/oli2tup/Covid_BrickBreaker/blob/main/Compling.gif)
 
 
 Covid19 informational brick breaker game
